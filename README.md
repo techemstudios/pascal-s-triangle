@@ -1,2 +1,3 @@
-# pascal-s-triangle
-Code Em Assignment - Middle Intermediate
+# Pascal's Triangle
+## Code Em Assignment - Middle Intermediate
+
