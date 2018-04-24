@@ -38,6 +38,6 @@ def fib_series(length):
 y = fib_series(14)
 # For your solution, please plot the level (x) vs. the sum of the row.
 # Remember, every row/level of Pascal's triangle will sum to 2**i
-# where that is 2 raised to the level number.
+# where that is 2 raised to the level number, starting with 0.
 pyplot.plot(range(len(y)),y)
 pyplot.show()
