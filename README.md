@@ -5,7 +5,7 @@ Pascal's triangle is a 2-D (triangular) array where each element is the sum of t
 
 `` [ [1], [1,1], [1,2,1], [1,3,3,1], ... ] ``
 
-Your assignment is to create a program (in any language, but Python is encouraged since that is our Primary instructional language) that will generate Pascal's triangle given an input for the number of levels. Then you will produce a plot where the x-axis is the level number and y is the sum of that level, but you should actually sum the row your program generated.
+Your assignment is to create a program (in any language, but Python is encouraged since that is our Primary instructional language) that will generate Pascal's triangle given an input for the number of levels. Then you will produce a plot where the x-axis is the level number and y is the sum of that level, but you should actually sum the row your program generated for the plot.
 
 For this assignment, you'll see a python program you can use as a basis for your solution. The included program generates the Fibonacci series and plots it. To run it, using Python 3.6, you can simply:
 
