@@ -18,7 +18,7 @@ in the same directory that the file is in or use IDLE to execute the file.
  * If you are new to Git, review [this](https://guides.github.com/activities/hello-world/).
  * Do your work on the `solution` branch.
  * Commit and push to the `solution` branch as much as you want -- as much as needed.
- * To _submit_ your assignment will be to create a PR (Pull Request) in your repo. This will signal us that your assignment is ready for review.
+ * To _submit_ your assignment will be to create a PR (Pull Request) in your repo from `solution` to `master`. This will signal us that your assignment is ready for review.
  * Use the slack channel if you have any issues or questions -- definitely seek help if you don't understand Git or the PR process for submission.
 
 ## Minimum Requirements
